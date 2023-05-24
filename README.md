@@ -23,3 +23,12 @@ Keras (version 2.10.0)
 PIL (Python Imaging Library) (version 9.3.0)
 scikit-learn (version 1.2.0)
 Please ensure that you have the necessary dependencies installed before attempting to run the code.
+
+Dataset
+This project utilizes the following datasets:
+
+CASIAV2.0 Dataset: The CASIAV2.0 dataset is a widely used benchmark dataset for face anti-spoofing. It contains a large collection of real and fake face images captured under various conditions.
+
+140k Real vs Fake Faces Dataset: This dataset comprises 140,000 face images labeled as either real or fake. It is commonly used for training and evaluating deep learning models in the field of face manipulation detection.
+
+PS-Battles Dataset: The PS-Battles dataset consists of images collected from Photoshop battle forums, where users engage in digital image editing competitions. This dataset contains a variety of manipulated and edited images.
