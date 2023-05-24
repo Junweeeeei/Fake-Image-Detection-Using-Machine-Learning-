@@ -1,10 +1,10 @@
 # Fake-Image-Detection-Using-Machine-Learning-
 This repository contains the code and resources for a fake image detection project. The purpose of this project is to develop a machine learning model that can identify and distinguish between real and fake images.
 
-Disclaimer : 
+Disclaimer ~ 
 This project is intended for educational and reference purposes only. It serves as an example of implementing a fake image detection algorithm and should not be used for any malicious or unethical activities.
 
-Project Overview : 
+Project Overview ~ 
 The project focuses on utilizing machine learning techniques to detect fake images. It includes the following components:
 
 - Dataset collection and preprocessing
@@ -12,7 +12,7 @@ The project focuses on utilizing machine learning techniques to detect fake imag
 - Model training and evaluation
 - Testing and inference
 
-Dependencies :
+Dependencies ~ 
 To run this project, the following dependencies are required:
 
 - Python (version 3.8.10)
@@ -25,7 +25,7 @@ To run this project, the following dependencies are required:
 - scikit-learn (version 1.2.0)
 Please ensure that you have the necessary dependencies installed before attempting to run the code.
 
-Dataset :
+Dataset ~ 
 This project utilizes the following datasets:
 
 CASIAV2.0 Dataset: The CASIAV2.0 dataset is a widely used benchmark dataset for face anti-spoofing. It contains a large collection of real and fake face images captured under various conditions.
